@@ -11,6 +11,7 @@ GIT is a D V C S
          t      
          e
          d
+         
 with an emphasis on speed .
 
 Initially made by Linus Torvalds because he did not like the propriatory nature of 
