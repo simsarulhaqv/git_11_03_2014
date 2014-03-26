@@ -6,7 +6,7 @@ thanks for all...
 
 more things that we have to learn
 
-- [] BASH
+-[] BASH
 - [] GIT Real
 - [] MarkDown
 - [] AD
